@@ -15,7 +15,7 @@ Ara_MacaoAmbiguus = 'Aras/Macao_Ambiguus.csv'  # CSV de Ara Macao y Ara Ambiguus
 lim_provincias = 'Aras/provincias.gpkg'  # Archivo de límites provinciales
 
 # %% [markdown]
-st.title('Ara Macao y Ara Ambiguus: Costa Rica')
+st.title('Ara Ambiguus: Costa Rica')
 st.subheader('Geog. D. Santiago Brenes Salas (B81292)')
 
 # %% [markdown]
