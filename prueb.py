@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Ara Ambiguus: Costa Rica
+# # Ara ambiguus: Costa Rica
 
 # %%
 import streamlit as st
@@ -15,7 +15,7 @@ Ara_MacaoAmbiguus = 'Aras/Macao_Ambiguus.csv'  # CSV de Ara Macao y Ara Ambiguus
 lim_provincias = 'Aras/provincias.gpkg'  # Archivo de límites provinciales
 
 # %% [markdown]
-st.title('Ara Ambiguus: Costa Rica')
+st.title('Ara ambiguus: Costa Rica')
 st.subheader('Geog. D. Santiago Brenes Salas (B81292)')
 
 # %% [markdown]
