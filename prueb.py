@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Ara Macao y Ara Ambiguus: Costa Rica
+# # Ara Ambiguus: Costa Rica
 
 # %%
 import streamlit as st
